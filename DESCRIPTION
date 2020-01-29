@@ -1,0 +1,18 @@
+Package: trutils
+Title: Bioinformatics Worflow Utilities
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Taylor",
+           family = "Reiter",
+           role = c("aut", "cre"),
+           email = "taylorreiter@gmail.com",
+           comment = c(ORCID = "0000-0002-7388-421X"))
+Description: What the package does (one paragraph).
+License: BSD_3_clause + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 2.1.0)
+RoxygenNote: 7.0.2
+Imports: 
+    readr
